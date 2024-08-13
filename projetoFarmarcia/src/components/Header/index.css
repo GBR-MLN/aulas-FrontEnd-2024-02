@@ -1,0 +1,10 @@
+.header-container {
+    background-color: var(--cor-6);
+    height: 25vh;
+    align-content: center;
+    text-align: center;
+}
+
+#img-logo {
+    height: 25vh;
+}
