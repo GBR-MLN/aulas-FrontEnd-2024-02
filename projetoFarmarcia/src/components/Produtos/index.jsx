@@ -20,11 +20,13 @@ function Produtos() {
             src="public/imgs/farmarcia-camiseta.png"
             alt="foto-camiseta-1"
             className="imgs-produtos"
+            id="img1"
           />
           <img
             src="public/imgs/farmarcia-camisetas.png"
             alt="foto-camiseta-2"
             className="imgs-produtos"
+            id="img2"
           />
         </div>
       </div>

@@ -1,0 +1,40 @@
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid blue;
+    height: 20vh;
+    width: 100vw;
+}
+
+#logoReceituario {
+    border: 1px solid blue;
+    height: 20vh;
+    width: 20vh;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: row;
+    height: 20vh;
+    width: 20vw;
+    border: 1px solid blue;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid blue;
+    height: 20vh;
+    width: 80vw;
+}
+
+#inputSearch {
+    width: 70%;
+    height: 5vh;
+    border-radius: 10px;
+}

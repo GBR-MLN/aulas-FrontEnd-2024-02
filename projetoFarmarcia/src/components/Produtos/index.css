@@ -8,11 +8,14 @@
 .convite-container {
     display: flex;
     flex-direction: column;
-    /* justify-content: center;
+    /* border: 1px blue solid; */
+    justify-content: center;
     align-items: center;
     background-color: var(--cor-1);
-    width: 100vw;
-    height: 15vh; */
+    width: 98.8vw;
+    height: 15vh;
+    padding: 10px;
+    color: var(--cor-6)
 }
 
 .text-products-container {
@@ -28,7 +31,7 @@
     display: flex;
     flex-direction: column;
     width: 100vw;
-    height: 60vh;
+    height: 62.3vh;
     align-items: center;
     background-color: var(--cor-1);
 }
@@ -49,10 +52,16 @@
     border-radius: 15px;
 }
 
+#img2 {
+    width: 35vh;
+}
+
 #title-convite {
-    border: 1px blue solid;
+    /* border: 1px blue solid; */
+    margin: 0;
 }
 
 #text-convite {
-    border: 1px blue solid;
+    /* border: 1px blue solid; */
+    margin: 0;
 }
